@@ -5,7 +5,7 @@ import linkedin from '../../images/linkedin.png'
 const Footer = () => {
     return (
         <div>
-            <footer className="footer footer-center p-5 bg-zinc-700 text-white">
+            <footer className="footer footer-center p-5 bg-cyan-900 text-white">
                 <div>
 
                     <p className="font-bold font-rancho text-2xl">
